@@ -1,7 +1,7 @@
 #ll.rotera.js
 
     By: Lundgren+Lindqvist
-    http://development.lundgrenlindqvist.se
+    http://dev.lundgrenlindqvist.se
 
 ## Introduction
 
@@ -9,4 +9,4 @@ Whenever you feel the need for rotating elements counter clockwise and highlight
 
 ## Demo
 
-http://development.lundgrenlindqvist.se/scripts/rotera/
+http://dev.lundgrenlindqvist.se/scripts/rotera/
